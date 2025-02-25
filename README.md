@@ -16,11 +16,21 @@ I'm passionate about developing efficient backend systems, creating **RESTful AP
 
 ## 🛠 Tech Stack
 
-![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap%20%7C%20Ionic--Angular-blue?style=for-the-badge)  
-![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20CodeIgniter%20%7C%20OpenCart%20%7C%20Laravel-green?style=for-the-badge)  
-![Database](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge)  
-![APIs & Tools](https://img.shields.io/badge/APIs%20&%20Tools-RESTful%20API%20%7C%20Postman%20%7C%20PhpMyAdmin-red?style=for-the-badge)  
-![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-yellow?style=for-the-badge)  
+![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)  
+![Ionic-Angular](https://img.shields.io/badge/Ionic--Angular-red?style=for-the-badge)  
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange?style=for-the-badge)  
+![OpenCart](https://img.shields.io/badge/OpenCart-lightblue?style=for-the-badge)  
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge)  
+![RESTful API](https://img.shields.io/badge/RESTful%20API-green?style=for-the-badge)  
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)  
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-blue?style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)  
 
 ## 📂 Featured Projects
 
