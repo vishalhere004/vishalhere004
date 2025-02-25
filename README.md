@@ -31,14 +31,6 @@ I'm passionate about developing efficient backend systems, creating **RESTful AP
 - A web-based system for **student enrollment, attendance tracking, and fee management**.
 - **Built With:** PHP, MySQL, CodeIgniter
 
-## 🚀 How to Run Locally
-
-1. Clone my portfolio repository:
-   ```sh
-   git clone https://github.com/vishalhere004/portfolio.git
-   ```
-2. Open `index.html` in a browser OR deploy via GitHub Pages.
-
 ## 📩 Get in Touch
 
 Looking for a **web developer** for your next project? Let's connect!\
