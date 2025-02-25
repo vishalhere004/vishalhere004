@@ -6,35 +6,73 @@ Welcome to my **GitHub Profile**! I'm a **Web Developer** with 2+ years of exper
 
 🌐 **Live Portfolio:** [vishalhere004.github.io/portfolio](https://vishalhere004.github.io/portfolio/)
 
+---
+
 ## 📌 About Me
 
-I'm passionate about developing efficient backend systems, creating **RESTful APIs**, and optimizing MySQL databases for performance. I have hands-on experience with OpenCart, CodeIgniter, Laravel, and modern web technologies.
+💻 Passionate about developing **efficient backend systems**, creating **RESTful APIs**, and optimizing **MySQL databases** for performance. 
 
-🔗 **LinkedIn:** [linkedin.com/in/vishal-pant-a7368220a](https://linkedin.com/in/vishal-pant-a7368220a)\
-🔗 **GitHub:** [github.com/vishalhere004](https://github.com/vishalhere004)\
+⚡ Hands-on experience with **OpenCart, CodeIgniter, Laravel**, and modern web technologies.
+
+🔗 **LinkedIn:** [linkedin.com/in/vishal-pant-a7368220a](https://linkedin.com/in/vishal-pant-a7368220a)  
+🔗 **GitHub:** [github.com/vishalhere004](https://github.com/vishalhere004)  
 📧 **Email:** [vishalpahadi4287@gmail.com](mailto:vishalpahadi4287@gmail.com)
 
-## 🛠 Tech Stack
+---
 
-![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge) ![Ionic-Angular](https://img.shields.io/badge/Ionic--Angular-red?style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange?style=for-the-badge) ![OpenCart](https://img.shields.io/badge/OpenCart-lightblue?style=for-the-badge) ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge) ![RESTful API](https://img.shields.io/badge/RESTful%20API-green?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge) ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-blue?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)  
+## 🛠 Tech Stack 🚀
 
-## 📂 Featured Projects
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)  
+![Ionic-Angular](https://img.shields.io/badge/Ionic--Angular-red?style=for-the-badge)  
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange?style=for-the-badge)  
+![OpenCart](https://img.shields.io/badge/OpenCart-lightblue?style=for-the-badge)  
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge)  
+
+### 🔧 Tools & APIs
+![RESTful API](https://img.shields.io/badge/RESTful%20API-green?style=for-the-badge)  
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)  
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-blue?style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)  
+
+---
+
+## 📂 Featured Projects 🎯
 
 ### 🚀 Chrome Ad Blocker Extension
 
-- A **Chrome extension** that blocks ads, improves page speed, and enhances user experience.
-- **Tech Used:** JavaScript, Chrome API
-- 🔗 [GitHub Repo](https://github.com/vishalhere004/add-blocker.git)
+🛑 A **Chrome extension** that blocks ads, improves page speed, and enhances user experience.  
+🔧 **Tech Used:** JavaScript, Chrome API  
+🔗 [GitHub Repo](https://github.com/vishalhere004/add-blocker.git)
 
 ### 📘 School Management System
 
-- A web-based system for **student enrollment, attendance tracking, and fee management**.
-- **Built With:** PHP, MySQL, CodeIgniter
+🏫 A web-based system for **student enrollment, attendance tracking, and fee management**.  
+🛠 **Built With:** PHP, MySQL, CodeIgniter  
 
-## 📩 Get in Touch
+---
 
-Looking for a **web developer** for your next project? Let's connect!\
+## 🚀 How to Run Locally 🏗️
+
+1. Clone my portfolio repository:
+   ```sh
+   git clone https://github.com/vishalhere004/portfolio.git
+   ```
+2. Open `index.html` in a browser OR deploy via GitHub Pages.
+
+---
+
+## 📩 Get in Touch 🤝
+
+Looking for a **web developer** for your next project? Let's connect!  
 💬 **[Hire Me](mailto:vishalpahadi4287@gmail.com)**
 
-⭐ **If you like my work, don't forget to star my repositories!** ⭐
-
+🌟 **If you like my work, don't forget to star my repositories!** 🌟
