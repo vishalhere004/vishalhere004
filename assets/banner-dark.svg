@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="1280" height="380" role="img" aria-labelledby="t d">
+  <title id="t">Vishal Pant, Backend Developer</title>
+  <desc id="d">Backend developer working with PHP, Laravel, CodeIgniter, OpenCart and MySQL.</desc>
+  <rect width="1280" height="380" rx="20" fill="#0B111E"/>
+  <rect x="0.5" y="0.5" width="1279" height="379" rx="19.5" fill="none" stroke="#25304A"/>
+
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <text x="64" y="150" font-size="92" font-weight="800" letter-spacing="-3" fill="#E8EDF5">Vishal Pant</text>
+    <text x="66" y="206" font-size="40" font-weight="700" fill="#8FA2FF">Backend Developer</text>
+    <text x="66" y="256" font-size="24" font-weight="500" fill="#98A3B8">I build the server side of the web.</text>
+    <text x="66" y="318" font-size="20" font-weight="600" fill="#E8EDF5">PHP  ·  Laravel  ·  CodeIgniter  ·  OpenCart  ·  MySQL</text>
+  </g>
+
+  <!-- request path: client to API to database -->
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <line x1="880" y1="190" x2="1190" y2="190" stroke="#25304A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="880" y1="190" x2="1190" y2="190" stroke="#8FA2FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="310" stroke-dashoffset="310">
+      <animate attributeName="stroke-dashoffset" from="310" to="0" dur="1.6s" begin="0.3s" fill="freeze"/>
+    </line>
+    <circle cx="880" cy="190" r="11" fill="#8FA2FF"/>
+    <circle cx="1035" cy="190" r="11" fill="#8FA2FF"/>
+    <circle cx="1190" cy="190" r="11" fill="#8FA2FF"/>
+    <text x="880" y="245" font-size="22" font-weight="700" fill="#E8EDF5" text-anchor="middle">Request</text>
+    <text x="1035" y="245" font-size="22" font-weight="700" fill="#E8EDF5" text-anchor="middle">API</text>
+    <text x="1190" y="245" font-size="22" font-weight="700" fill="#E8EDF5" text-anchor="middle">MySQL</text>
+    <rect x="1120" y="116" width="140" height="38" rx="19" fill="#8FA2FF"/>
+    <text x="1190" y="141" font-size="19" font-weight="700" fill="#0B111E" text-anchor="middle">200 OK</text>
+  </g>
+</svg>
